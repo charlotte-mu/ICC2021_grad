@@ -4,3 +4,4 @@
 test pattern all pass
 
 Total cell area : 29663.762241
+Synthesis clock cycle : 30ns
